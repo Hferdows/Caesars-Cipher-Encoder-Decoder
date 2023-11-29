@@ -121,7 +121,7 @@ public class Cipher {
          }
 
         public String getInfo() {
-            return "Program 3, Hannah Ferdows";
+            return "Program 4, Hannah Ferdows";
         }
 
     }
